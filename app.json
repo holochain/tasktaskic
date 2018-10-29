@@ -1,0 +1,14 @@
+{
+  "name": "Tasktaskic",
+  "description": "A little todo app",
+  "authors": [
+    {
+      "indentifier": "Connor Turland <connor.turland@holo.host>",
+      "public_key_source": "",
+      "signature": ""
+    }
+  ],
+  "version": "0.1.0",
+  "dht": {},
+  "properties": null
+}
